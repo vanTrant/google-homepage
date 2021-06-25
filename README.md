@@ -10,6 +10,13 @@ You can preview the page [here](https://vantrant.github.io/google-homepage/)
 
 * Any browser will do, but in this case i'm using Chrome.
 
+## Version History
+  
+* 1.1
+    * Add underline when hovering in other language links
+* 1.0
+    * Initial release
+
 ## Authors
 
 Riovano - [@riovanop](https://www.instagram.com/riovanop/) - riovano82@gmail.com <br />

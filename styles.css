@@ -225,6 +225,10 @@
     color: darkblue;
 }
 
+.other-lang p span a:hover {
+    text-decoration: underline;
+}
+
 footer {
     position: absolute;
     bottom: 0;
