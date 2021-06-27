@@ -12,6 +12,8 @@ You can preview the page [here](https://vantrant.github.io/google-homepage/)
 
 ## Version History
   
+* 1.2
+    * Improve responsiveness for mobile device
 * 1.1
     * Add underline when hovering in other language links
 * 1.0

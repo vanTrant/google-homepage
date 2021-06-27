@@ -78,6 +78,7 @@
     position: absolute;
     border-radius: 10px;
     box-shadow: 0 0 5px 3px var(--button-shadow-active);
+    background: rgb(255,255,255);
     right: 1vw;
     top: 10vh;
     width: 20vw;
@@ -282,6 +283,13 @@ footer {
 }
 
 
+@media only screen and (max-width: 800px) {
+    .appicon-action {
+        width: 40vw;
+        height: 50vh;
+    }
+}
+
 @media only screen and (max-width: 700px) {
     .image img {
         max-width: 50vw;
@@ -325,5 +333,9 @@ footer {
         margin: auto;
     }
 
-
+    .appicon-action {
+        width: 70vw;
+        height: 50vh;
+    }
+    
 }
